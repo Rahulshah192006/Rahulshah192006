@@ -31,9 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulshah192006&layout=compact" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
+![Profile Views](https://camo.githubusercontent.com/37a5ba624a0d5a1c20ad883a71e71acd3041678613a8fa3e112add598a9bfb9c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726168756c73686168313932303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 **🐱 My Github Data** 
 > 📜 7 Public Repositories 
