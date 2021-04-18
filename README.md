@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RahulSh37753100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
+<a href="https://twitter.com/RahulSh37753100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RahulShah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rahul-shah-b69249209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RahulShah" height="30" width="40" /></a>
 </p>
 
