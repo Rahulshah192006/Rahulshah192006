@@ -1,69 +1,35 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Rahul Shah, I am a class 10 Student Currently studying in advanced academy 
+<h1 align="center">Hi 👋, I'm Rahul Shah</h1>
+<h3 align="center">Python and HTML</h3>
 
-- 🏢 I'm currently interning at [Artificial intelligence]()
-- 💬 Ask me about my experiences as a Programmer as I am a Learning Python
-- 📫 How to reach me: 
-     - Personal: rahul.shah102006@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulshah192006&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulshah192006" /> </p>
 
-### Social media profiles
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulshah192006" alt="Rahulshah192006" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/RahulSh37753100" target="blank"><img src="https://img.shields.io/twitter/follow/robogajesh?logo=twitter&style=for-the-badge" alt="RahulShah" /></a> </p>
+
+- 🌱 I’m currently learning **React.js and Java python)**
+
+- 💬 Ask me about **Html,Python,**
+
+- 📫 How to reach me **rahul.shah102006@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/rahul-shah-b69249209/](Linkndin)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RahulSh37753100"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-shah-b69249209/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/	gxuikvnea3puwvz28c1pyxt9r"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
+<a href="https://twitter.com/RahulSh37753100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-shah-b69249209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RahulShah" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools
-<p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-</p>
 
-### Spotify Playing 🎧
-[Ignite](https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58?si=0187dd0f6b304bda)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-### My GitHub stats 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/RahulShah2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RahulShah" /></a></p><br><br>
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=Rahulshah192006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulshah192006&show_icons=true&locale=en&layout=compact" alt="Rahulshah192006" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahulshah192006&count_private=true&show_icons=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulshah192006&show_icons=true&locale=en" alt="Rahulshah192006" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulshah192006&layout=compact" />
-
-<!--START_SECTION:waka-->
-![Profile Views](https://camo.githubusercontent.com/37a5ba624a0d5a1c20ad883a71e71acd3041678613a8fa3e112add598a9bfb9c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726168756c73686168313932303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
-
-**🐱 My Github Data** 
-> 📜 7 Public Repositories 
- > 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/India
-
-💬 Programming Languages: 
-Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
-Java                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-
-🔥 Editors: 
-visual studio code                 18 hrs 53 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
-Linux                    4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   5%
-Java                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulshah192006&" alt="Rahulshah192006" /></p>
